@@ -1,0 +1,17 @@
+This is a simple java project to extract the search results of Wolfram Alpha in string format.
+
+>Download the two .java files:
+1. WebSource.java
+2. Groogle.java
+
+>Compile Groogle.java in cmd/terminal using command: javac Groogle.java
+
+>Run using: java Groogle
+
+>Example output:
+Enter Search Query: father on nelson mandela
+ "Nelson Mandela | father"
+ "Gadla Henry Mphakanyiswa"
+
+
+Note: This program needs internet connection.
